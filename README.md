@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Tela de Login</h1>
 <br>
-<p>Nesse projeto foi realizado uma tela de login, trabalhando bastante posicionamento de input e etilização no css para que fique de forma dinâmica para usuário.
+<p>Nesse projeto foi realizado uma tela de login, trabalhando bastante posicionamento de input e estilização no css para que fique de forma dinâmica para usuário.
 Como o projeto não ocupa um espaço grande na tela, a reponsividade ficou bem simples nesse caso.Com a grande ajuda do <a href="https://www.youtube.com/watch?v=TD0ItRjhGUg">Rodolfo Mori</a>.</p>
 <br>
 <p>Tecnologias usadas:</p>
